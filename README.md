@@ -14,7 +14,7 @@
 
 <p align ="center"> <img width="20" height="20" src = "https://i.postimg.cc/MTh7r82Y/IMG-0121.gif"> ------------- <img width="20" height="20" src = "https://i.postimg.cc/VL9q4T7j/IMG-0120.gif">
 
-![](https://komarev.com/ghpvc/?username=fncval&color=fa86c4&style=plastic&label=hacked)
+![](https://komarev.com/ghpvc/?username=fncval&color=fa86c4&style=plastic&label=viewed)
 
 ㅤ
 
